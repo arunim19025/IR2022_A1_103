@@ -1,6 +1,6 @@
 # Unigram Inverted Index
 
-This python file has the implementaion of Unigram Inverted Index and Queries with bolean operator such as and,or,not.
+In the given problem statement, we were supposed to implement the unigram inverted index data structure on the given dataset. 
 
 
 Provide support for the following commands:
